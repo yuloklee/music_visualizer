@@ -2,7 +2,10 @@
 Utilizes GPIO pins and a Raspberry Pi to read, parse, and visualize audio wavelengths.<br><br>
 
 ### Demo: <br>
-[![Demo](https://i.gyazo.com/20c65ab6e2e1777d473fb5ba49fd8f10.png)](https://www.youtube.com/watch?v=VvG99e72yxE)
+
+<a href="https://www.youtube.com/watch?v=VvG99e72yxE
+" target="_blank"><img src="https://i.gyazo.com/20c65ab6e2e1777d473fb5ba49fd8f10.png" 
+alt="Music Visualizer Demo" width="800" height="450" border="10" /></a>
 
 ## Build Instructions
 1. Clone the repo on your raspberry pi
