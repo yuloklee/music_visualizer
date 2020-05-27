@@ -4,7 +4,7 @@ Utilizes GPIO pins and a Raspberry Pi to read, parse, and visualize audio wavele
 ### Demo: <br>
 
 <a href="https://www.youtube.com/watch?v=VvG99e72yxE
-" target="_blank"><img src="https://i.gyazo.com/20c65ab6e2e1777d473fb5ba49fd8f10.png" 
+" target="_blank"><img src="Raspberry_Pi_Music_Visualizer_Project (1).gif" 
 alt="Music Visualizer Demo" width="800" height="450" border="10" /></a>
 
 ## Build Instructions
